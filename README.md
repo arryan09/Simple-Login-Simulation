@@ -10,9 +10,3 @@ This project simulates a basic login system using **hardcoded credentials** in N
 - Frontend login page  
 - JSON response  
 - No database required  
-
----
-
-## 🚀 How to Run
-
-### 1. Install dependencies
